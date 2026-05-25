@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon_source.png" width="128" height="128" alt="NTFS Mac Icon">
+  <img src="NTFSMac/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="128" height="128" alt="NTFS Mac Icon">
 </p>
 
 <h1 align="center">NTFS Mac</h1>
